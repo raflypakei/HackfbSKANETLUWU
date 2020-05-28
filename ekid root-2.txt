@@ -1,6 +1,6 @@
 #!/bin/bash
 #Silahkan di recode :)
-#Jangan Lupa Subscribe Ekid Root
+#Jangan Lupa Berlangganan Raflypakei
 
 #Variables
 clear
@@ -21,8 +21,8 @@ red="\033[1;31m"
 
 figlet EKID | lolcat
 figlet ROOT | lolcat
-echo "ADMIN : EBECK KANSAS" | lolcat
-echo "YOUTUBE : Ekid Root" | lolcat
+echo   "ADMIN: Raflypakei" | lolcat
+echo           "YOUTUBE: Rafly Pake i | lolcat
 
 
 ###################################################
@@ -31,7 +31,7 @@ echo "YOUTUBE : Ekid Root" | lolcat
 trap ctrl_c INT
 ctrl_c() {
 clear
-echo $red"[#]> (Ctrl + C ) Detected, Trying To Exit ... "
+echo  $ red "[#]> (Ctrl + C) Terdeteksi, Mencoba Keluar ..."
 echo $cyan"[#]> Thanks"
 sleep 1
 echo ""
